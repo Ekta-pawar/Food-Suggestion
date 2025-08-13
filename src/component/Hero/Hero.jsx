@@ -1,7 +1,7 @@
 import React from 'react';
 import './Hero.css';
 
-import bowl from "../../assets/bowle1.png";
+import bowl from "../../assets/bowl.png";
 import { Link } from 'react-router-dom';
 
 
