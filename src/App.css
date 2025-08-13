@@ -1,0 +1,10 @@
+body{
+
+  width: 100vw;
+}
+
+.active-link {
+  font-weight: bold;
+  text-decoration: underline;
+  color: red;
+}
